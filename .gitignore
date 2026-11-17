@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 @'
 node_modules/
 .env
 '@ | Out-File -Encoding utf8 .gitignore
+=======
+﻿node_modules/
+.env
+>>>>>>> 7603ce9b45d7ddf743da6bf9f5b94436e579d84c

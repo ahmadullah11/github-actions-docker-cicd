@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "github-actions-docker-cicd",
   "version": "1.0.0",
@@ -15,5 +16,18 @@
   },
   "devDependencies": {
     "@types/express": "^5.0.6"
+=======
+﻿{
+  "name": "node-docker-cicd",
+  "version": "1.0.0",
+  "description": "Node.js app with Docker and GitHub Actions CI/CD",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+>>>>>>> 7603ce9b45d7ddf743da6bf9f5b94436e579d84c
   }
 }
